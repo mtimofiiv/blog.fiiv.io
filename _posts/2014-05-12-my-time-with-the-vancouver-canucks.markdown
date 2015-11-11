@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My Time with the Vancouver Canucks: This Is What We Life For"
-date: 2014-05-12 16:02:35 +0100
-categories: sports life
+date: 2014-05-12
+categories: sports career
 ---
 There is no other business like the sports business — a lesson I learned well from working with the Vancouver Canucks hockey club.
 
