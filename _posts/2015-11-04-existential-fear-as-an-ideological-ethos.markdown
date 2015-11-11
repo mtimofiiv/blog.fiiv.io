@@ -4,6 +4,7 @@ title: "Existential fear as an ideological ethos"
 subtitle: "Being scared of change and the unknown holds society back (and always has)"
 date: 2015-11-04
 categories: fear politics philosophy
+permalink: /existential-fear-as-an-ideological-ethos
 ---
 When someone refers to _fear_, one tends to assume it means the primal, paralysing kind, the knife’s edge that cuts into our rationality until all that remains is adrenaline, instinct and the will to survive. While this fear has not and will not go away because the forces of crime, war, hunger and anything else leading to desperation still exist in each and every society, there is another variety.
 

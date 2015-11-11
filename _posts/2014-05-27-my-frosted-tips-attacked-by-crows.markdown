@@ -4,6 +4,7 @@ title: "My frosted tips attacked by crows"
 subtitle: "One young man’s struggle and how hilarious it is now that it happened to my girlfriend (disclaimer: she does not have frosted tips)."
 date: 2014-05-27
 categories: crows fashion
+permalink: /my-frosted-tips-attacked-by-crows
 ---
 It was a seemingly beautiful day — the sun was out, the spring air was still crisp despite the fast approaching summer, and apparently, the crows were out in force.
 

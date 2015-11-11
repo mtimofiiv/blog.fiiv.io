@@ -4,6 +4,7 @@ title: "The one thing I bought in Morocco"
 subtitle: "A journey to find the notebook that almost got away."
 date: 2014-05-14
 categories: travel morocco
+permalink: /the-little-green-book-of-marrakech
 ---
 Tina and I walked, lost, through the streets of Marrakech. We were staying in a guest house type mansion (called a riad), Magie d’Orient, where a helpful guy named Aziz helped us feel really at home.
 

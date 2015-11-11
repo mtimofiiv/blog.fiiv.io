@@ -4,6 +4,7 @@ title: "That is not the truth you’re looking for..."
 subtitle: "...and other philosophical lessons of _Encino Man_. With some inspiration from Slavoj Žižek."
 date: 2015-08-20
 categories: philosophy ideology learning
+permalink: /that-is-not-the-truth-you-re-looking-for
 ---
 I often think about how interesting the premise of the movie _Encino Man_ really is — someone digging in their back yard happens to find an ancient caveman from thousands of years ago, and must acclimatize him to modern life.
 

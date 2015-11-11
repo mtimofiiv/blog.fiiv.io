@@ -4,6 +4,7 @@ title: "On to Amsterdam"
 subtitle: "How one year ago, I left my life behind to move to The Netherlands."
 date: 2015-08-08
 categories: travel moving netherlands amsterdam
+permalink: /on-to-amsterdam
 ---
 There is nothing more soul crushing than purgatory, and for me, it was the exhaustingly long morning of July 22nd, 2014. Having lived in Vancouver for 16 years, I was about to leave it all behind that afternoon to start something new. My girlfriend and I were leaving behind friends, family, and at least a half dozen things that people often resign themselves to believing are reasons to trudge on despite a continued desire for change. We were leaving them all behind to go on vacation and never come back.
 

@@ -4,6 +4,7 @@ title: "Istanbul is the centre of the world"
 subtitle: "And the things about it I will never forget"
 date: 2014-08-25
 categories: travel turkey istanbul
+permalink: /istanbul-is-the-centre-of-the-world
 ---
 The August heat in Istanbul sticks, coats and smothers you. The wet air of the Bosphorus caries with it an essence layered into the usual Mediterranean saltiness to where it almost feels like a fresh water port. It makes sense that the city is the conduit between Europe and Asia, as it has yet to make up its mind of where it fits.
 

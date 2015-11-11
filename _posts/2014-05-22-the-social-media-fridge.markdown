@@ -4,6 +4,7 @@ title: "The social media fridge"
 subtitle: "Is a news feed the same as staring into a fridge?"
 date: 2014-05-22
 categories: social-media
+permalink: /the-social-media-fridge
 ---
 Sometimes, I open the fridge and stare into it. I know exactly what’s inside: a container of milk, some vegetables, chicken. Perhaps that plastic container of sentient pasta I made a couple weeks ago and never ate (or cleaned out).
 
