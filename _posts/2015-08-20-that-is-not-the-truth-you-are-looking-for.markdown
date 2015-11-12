@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "That is not the truth you’re looking for..."
-subtitle: "...and other philosophical lessons of _Encino Man_. With some inspiration from Slavoj Žižek."
+subtitle: "...and other philosophical lessons of \"Encino Man\". With some inspiration from Slavoj Žižek."
 date: 2015-08-20
 categories: philosophy ideology learning
 permalink: /that-is-not-the-truth-you-re-looking-for

@@ -1,8 +1,60 @@
+.site-header {
+  width: 100%;
+  height: 60px;
+  padding: 20px 0;
+}
+
+.site-header .content {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+.site-header .branding {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.site-header .branding a {
+  font-family: $headline-font-family;
+  text-decoration: none;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.site-header .branding a img {
+  border-radius: 50%;
+  width: 58px;
+  border: 2px solid white;
+}
+
+.site-header .branding a:hover img {
+  border: 2px solid $brand-color;
+}
+
+.site-header .branding a span {
+  font-size: 30px;
+  position: relative;
+  top: -20px;
+  padding: 0 0 0 20px;
+  color: white;
+}
+
+.site-header .branding a:hover span {
+  color: $brand-color;
+}
+
+.site-header nav {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
 .container {
   width: 100%;
 }
 
-.post-content, .post-header .content {
+.post-content, .post-header .content, .site-header .content {
   width: 90%;
   max-width: 1000px;
   padding: 0 5%;
@@ -43,6 +95,11 @@
 .post-header p {
   margin: 0;
   padding: 0;
+}
+
+.post-header .subhead {
+  font-style: italic;
+  font-size: 25px;
 }
 
 .post-content {
