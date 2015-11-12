@@ -14,8 +14,12 @@ layout: default
   </header>
 
   <div class="post-content">
+    {% include share.html %}
+    
     {{ content }}
   </div>
+
+  {% include share.html %}
 
   <div class="comments">
     {% include comments.html %}

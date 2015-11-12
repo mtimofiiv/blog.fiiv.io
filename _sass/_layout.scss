@@ -2,6 +2,7 @@
   width: 100%;
   height: 60px;
   padding: 20px 0;
+  border-top: 6px solid $brand-color;
 }
 
 .site-header .content {
@@ -54,7 +55,7 @@
   width: 100%;
 }
 
-.post-content, .post-header .content, .site-header .content, .post-content .comments {
+.post-content, .post-header .content, .site-header .content, .post .comments {
   width: 90%;
   max-width: 1000px;
   padding: 0 5%;
