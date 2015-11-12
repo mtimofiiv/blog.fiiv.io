@@ -55,7 +55,7 @@
   width: 100%;
 }
 
-.post-content, .post-header .content, .site-header .content, .post .comments {
+.post-content, .post-header .content, .site-header .content, .post .comments, .blogroll {
   width: 90%;
   max-width: 1000px;
   padding: 0 5%;
@@ -69,6 +69,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-color: black;
 }
 
 .post-header .transform {
@@ -110,4 +111,42 @@
 
 .post-content img {
   width: 100%;
+}
+
+.blogroll-post {
+  width: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  margin: 0 0 15px 0;
+  height: 200px;
+  border-bottom: #ccc 1px solid;
+  padding-bottom: 10px;
+}
+
+.blogroll-post .window {
+  width: 33%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.blogroll-post .content {
+  width: 63%;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding-left: 3%;
+}
+
+.blogroll-post h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.blogroll-post p {
+  margin: 0;
+  padding: 0;
 }
