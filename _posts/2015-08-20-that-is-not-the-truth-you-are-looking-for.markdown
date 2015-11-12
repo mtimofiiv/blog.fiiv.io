@@ -5,6 +5,7 @@ subtitle: "...and other philosophical lessons of _Encino Man_. With some inspira
 date: 2015-08-20
 categories: philosophy ideology learning
 permalink: /that-is-not-the-truth-you-re-looking-for
+masthead: /assets/images/2015-08-20/01.jpg
 ---
 I often think about how interesting the premise of the movie _Encino Man_ really is — someone digging in their back yard happens to find an ancient caveman from thousands of years ago, and must acclimatize him to modern life.
 

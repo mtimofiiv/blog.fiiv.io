@@ -5,6 +5,7 @@ subtitle: "I have always been a bit of a music snob and a bit of a music sponge 
 date: 2014-11-02
 categories: music moving travel
 permalink: /why-you-should-delete-all-your-music-regularly
+masthead: /assets/images/2014-22-03/01.jpg
 ---
 I have always been a bit of a music snob and a bit of a music sponge at the same time. I have gone through as many musical phases as I have gone through life experiences. I can probably look back at all my conscious years and name a song to describe how it felt to be me, then.
 

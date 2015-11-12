@@ -5,6 +5,7 @@ subtitle: "When we arrived in Tel Aviv, we really did not know what to expect. I
 date: 2014-08-05
 categories: travel israel "tel aviv"
 permalink: /why-dont-you-go-to-tel-aviv
+masthead: /assets/images/2014-08-05/01.jpg
 ---
 When we arrived in Tel Aviv, we really did not know what to expect. It was hot, the news was full of stories that the press relish to share and readers love to read, and we couldn’t decide if the city even gave a shit or not about the conflict in Gaza.
 

@@ -4,6 +4,7 @@ title: "My Time with the Vancouver Canucks: This Is What We Life For"
 date: 2014-05-12
 categories: sports career
 permalink: /my-time-with-the-vancouver-canucks
+masthead: /assets/images/2014-05-12/01.jpg
 ---
 There is no other business like the sports business — a lesson I learned well from working with the Vancouver Canucks hockey club.
 

@@ -4,9 +4,24 @@ body {
   line-height: $base-line-height;
   color: $text-color;
   background: $background-color;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $headline-font-family;
   color: $brand-color;
+  font-weight: normal;
+}
+
+a, a:visited {
+  color: $brand-color;
+}
+
+blockquote {
+  border-left: $brand-color 10px solid;
+  padding: 0 0 0 25px;
+  margin: 30px;
+  font-size: 24px;
+  font-style: italic;
 }

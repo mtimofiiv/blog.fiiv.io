@@ -1,0 +1,44 @@
+.container {
+  width: 100%;
+}
+
+.post-content, .post-header .content {
+  width: 90%;
+  max-width: 1000px;
+  padding: 0 5%;
+  margin: 0 auto;
+}
+
+.post-header {
+  width: 100%;
+  min-height: 700px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.post-header .transform {
+  /*background-image: url('/assets/images/masthead-transform.png');*/
+  background-repeat: repeat-x;
+  background-attachment: scroll;
+  background-position: bottom;
+  width: 100%;
+  min-height: 700px;
+}
+
+.post-header .content {
+  color: white;
+  position: relative;
+  top: 50%;
+}
+
+.post h1 {
+  color: white;
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.post-content img {
+  width: 100%;
+}
