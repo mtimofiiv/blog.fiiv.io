@@ -27,4 +27,4 @@ For almost ten years I told this story like a grizzled vet from a war long ago t
 
 So here, a picture of me with my stupid, stupid Backstreet Boys hair. Enjoy this reward for reading about this ridiculous story.
 
-![stupid, ugly frosted tips](/assets/images/2014-05-27/01.jpg)
+![stupid, ugly frosted tips](/assets/images/2014-05-27/02.jpg)
