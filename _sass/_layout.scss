@@ -150,6 +150,14 @@
   padding: 0;
 }
 
+.blogroll-post h2 a {
+  text-decoration: none;
+}
+
+.blogroll-post h2 a:hover {
+  text-decoration: underline;
+}
+
 .blogroll-post p {
   margin: 0;
   padding: 0;
