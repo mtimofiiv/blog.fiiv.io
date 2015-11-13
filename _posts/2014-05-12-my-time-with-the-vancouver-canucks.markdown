@@ -10,11 +10,11 @@ There is no other business like the sports business — a lesson I learned w
 
 I was never a huge hockey fan: I watched it on television when a big game was on, or when I went out for a drink with the guys.
 
-I started during probably the best time the franchise had seen in a long time, a landmark season with trophies raining from the sky and a sense of destiny. That playoff run in 2011 is something I will never forget. People use the cliche that there is electricity in the air, but that’s what it was — it felt like static electricity floated around everywhere, and the little hairs on my arms would just not lie down.
+I started during probably the best time the franchise had seen in a long time, a landmark season with trophies raining from the sky and a sense of destiny. That playoff run in 2011 is something I will never forget. People use the cliche that there is electricity in the air, but that's what it was — it felt like static electricity floated around everywhere, and the little hairs on my arms would just not lie down.
 
-My first big project was a herculean effort in many ways. “This is What We Live For” was a brainchild of the creative, web and marketing departments, and it terrified me. As a developer I had never built anything so complex in my life. The existence of a developer is one of constant problem solving, and there were so many challenges in this project that it made me question if I could finish it.
+My first big project was a herculean effort in many ways. "This is What We Live For" was a brainchild of the creative, web and marketing departments, and it terrified me. As a developer I had never built anything so complex in my life. The existence of a developer is one of constant problem solving, and there were so many challenges in this project that it made me question if I could finish it.
 
-The concept was of a mosaic where other people’s pictures made up a bigger image we chose for that time. A user could go on the site, upload and crop a photo, and once they hit submit be a part of something greater. This had been done in Flash a bunch of times but I wanted to do it Flash-less. So I put together a photo manipulation API and a database, and we were working on how best to meld it all together.
+The concept was of a mosaic where other people's pictures made up a bigger image we chose for that time. A user could go on the site, upload and crop a photo, and once they hit submit be a part of something greater. This had been done in Flash a bunch of times but I wanted to do it Flash-less. So I put together a photo manipulation API and a database, and we were working on how best to meld it all together.
 
 I played around with several solutions to the inherent problems. Any web developer will tell you the easy part is building something that works on your localhost, but the hard part is planning it ahead of time to work with the type of scale you hope it gets. And we were no short of scale, seeing a whopping 28,000 over the 4 rounds, with each picture automatically being assigned a spot in the grid.
 
@@ -24,9 +24,9 @@ This is What We Live For — a photo mosaic to which people could submit and
 
 ![thisiswhatwelivefor.com](/assets/images/2014-05-12/03.jpg)
 
-Each individual photo had a storyIt all worked out, of course, and it seemed everyone was really impressed with the final product. Looking at the codebase now that I’ve been around, all I see is how much I’ve learned since that day.
+Each individual photo had a storyIt all worked out, of course, and it seemed everyone was really impressed with the final product. Looking at the codebase now that I've been around, all I see is how much I've learned since that day.
 
-I wouldn’t trade that time for anything. To discover the solution to a bug was like the exhilaration one of Agatha Christie’s detectives must have felt as they saw the pieces fall into place in one of her dime store whodunits.
+I wouldn't trade that time for anything. To discover the solution to a bug was like the exhilaration one of Agatha Christie's detectives must have felt as they saw the pieces fall into place in one of her dime store whodunits.
 
 ![thisiswhatwelivefor.com](/assets/images/2014-05-12/04.jpg)
 
@@ -38,8 +38,8 @@ I was there, in the bar and grill upstairs. First goal. Second goal. Third goal.
 
 Zdeno Chara hoisted the Stanley Cup.
 
-But looking back now, I don’t care. It was great while it lasted, and more importantly than getting the bragging rights of working for the Stanley Cup winner, I learned about myself. I learned how I work under pressure, I learned that the smallest choices early on in a project are the ones that can come back to haunt you later.
+But looking back now, I don't care. It was great while it lasted, and more importantly than getting the bragging rights of working for the Stanley Cup winner, I learned about myself. I learned how I work under pressure, I learned that the smallest choices early on in a project are the ones that can come back to haunt you later.
 
 And most importantly, I learned to enjoy the ride. I immersed myself in the company and its culture and it was the greatest work experience of my life.
 
-In my next post, I’ll take up where I left off.
+In my next post, I'll take up where I left off.

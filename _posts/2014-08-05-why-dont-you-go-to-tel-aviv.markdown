@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Why don’t you go to Tel Aviv?"
+title: "Why don't you go to Tel Aviv?"
 subtitle: "When we arrived in Tel Aviv, we really did not know what to expect. It was hot, the news was full of stories that the press relish to share..."
 date: 2014-08-05
 categories: travel israel "tel aviv"
 permalink: /why-dont-you-go-to-tel-aviv
 masthead: /assets/images/2014-08-05/01.jpg
 ---
-When we arrived in Tel Aviv, we really did not know what to expect. It was hot, the news was full of stories that the press relish to share and readers love to read, and we couldn’t decide if the city even gave a shit or not about the conflict in Gaza.
+When we arrived in Tel Aviv, we really did not know what to expect. It was hot, the news was full of stories that the press relish to share and readers love to read, and we couldn't decide if the city even gave a shit or not about the conflict in Gaza.
 
 The situation was ugly for everyone involved: the Israelis came off as heartless to the fragile sensibilities of the average Western liberal, the Palestinians died and wept, and the rest of the world stood by and watched.
 
@@ -23,15 +23,15 @@ The bauhaus buildings, white and stark, greeted us everywhere as we rode in our 
 
 The streets were a mix of buildings that have seen their share of wear, the occasional ruin (a clear favourite of the local underground graffiti scene) and the pristine crispness of a well looked after home. The effect was rather like a mouth of well-used teeth — some ruined and some a paragon of frequent brushing. The air smelled of whatever you happened to be walking past carried by the heat of the afternoon sun, wether it was delicious food of any possible denomination, brand new clothes with their hint of fromaldahyde, or hot piss, among many many others.
 
-The passers by, so many of them from European stock, achieved a skin colour that can only be described as mahogany — they didn’t quite look like arabs but share their level of dark while having a characteristic reddish tinge.
+The passers by, so many of them from European stock, achieved a skin colour that can only be described as mahogany — they didn't quite look like arabs but share their level of dark while having a characteristic reddish tinge.
 
-Inside every store, home or restaurant the same thing was on the television, and it did not take someone who understood Hebrew to know what they were talking about. Occasionally words like “Hamas” or “rocket” stuck to the anglophone ear through the stream of beautiful foreign sounds.
+Inside every store, home or restaurant the same thing was on the television, and it did not take someone who understood Hebrew to know what they were talking about. Occasionally words like "Hamas" or "rocket" stuck to the anglophone ear through the stream of beautiful foreign sounds.
 
 Finally, as we arrived at the apartment where we were staying, we were greeted by a man of healthy build, mahogany tan and shaved head whose name was Offir. After settling us into our room he informed us that in the case of a rocket, a siren would sound and we were to go to the stairwell of the building, which was reinforced concrete.
 
 He was the first Israeli we had met there, and his manner could only be described as a man who loves life. His smile never left his mouth and his generous use of his hands as he talked, combined with his welcoming demeanour, painted a portrait of happiness.
 
-That morning, at 6 o’clock, the distant siren sounded. I heard it in my dream, but it was so like the sound of a police car or ambulance that my unconcious mind discarded it as white noise. It wasn’t till Offir’s heavy knocking a minute later that I woke up and realized what it was.
+That morning, at 6 o'clock, the distant siren sounded. I heard it in my dream, but it was so like the sound of a police car or ambulance that my unconcious mind discarded it as white noise. It wasn't till Offir's heavy knocking a minute later that I woke up and realized what it was.
 
 We were under attack by a Hamas rocket.
 
@@ -43,4 +43,4 @@ That afternoon we went out into the streets of Tel Aviv. The signs of the countl
 
 The beach was much the same. It was gorgeous. The sun seemed endless and the hot white sand and warm, clear Mediterranean water brought with it a dreamy fog of contentment. Here, on the beach, nothing else mattered. Only the occasional flyby of an IDF Apache helicopter patrol tore a brief seam in the consequenceless malaise.
 
-This truly is a city of beaches, tourists and the bright extroversion of artists, shopkeepers and youth mixed with the desire to live together. The only phrase that comes to mind is _“Wenn ihr wollt, ist es kein Märchen” — “if you will it, it is no dream” (Theodore Herzl, Altneuland)_.
+This truly is a city of beaches, tourists and the bright extroversion of artists, shopkeepers and youth mixed with the desire to live together. The only phrase that comes to mind is _"Wenn ihr wollt, ist es kein Märchen" — "if you will it, it is no dream" (Theodore Herzl, Altneuland)_.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My frosted tips attacked by crows"
-subtitle: "One young man’s struggle and how hilarious it is now that it happened to my girlfriend (disclaimer: she does not have frosted tips)."
+subtitle: "One young man's struggle and how hilarious it is now that it happened to my girlfriend (disclaimer: she does not have frosted tips)."
 date: 2014-05-27
 categories: crows fashion
 permalink: /my-frosted-tips-attacked-by-crows
@@ -9,7 +9,7 @@ masthead: /assets/images/2014-05-27/01.jpg
 ---
 It was a seemingly beautiful day — the sun was out, the spring air was still crisp despite the fast approaching summer, and apparently, the crows were out in force.
 
-I had just gotten my hair “frosted”, a process which in effect bleaches the tips of the hair on my head. This was for some reason a popular look at the time, and I had adopted it. Why I did this I no longer recall, and is potentially irrelevant as the sins of my youth are not up for discussion here.
+I had just gotten my hair "frosted", a process which in effect bleaches the tips of the hair on my head. This was for some reason a popular look at the time, and I had adopted it. Why I did this I no longer recall, and is potentially irrelevant as the sins of my youth are not up for discussion here.
 
 The road back to my house from the barber shop was a mere twenty minute walk through some quiet streets, and I fully intended to enjoy the trip. North Vancouver is a suburb of Vancouver, but being connected to the main city through two bridges it had a lot less traffic, more greenery and more of a small town feel.
 
@@ -23,7 +23,7 @@ The first time it happened I thought it was a strange occurrence, and decided to
 
 Eventually I reached the door to my apartment building, and with it, a certain safety.
 
-For almost ten years I told this story like a grizzled vet from a war long ago tells tales of surviving a raid by “Charlie”. And then, today, it happened to my girlfriend. I laughed out loud as hard as only someone who has lived it can appreciate.
+For almost ten years I told this story like a grizzled vet from a war long ago tells tales of surviving a raid by "Charlie". And then, today, it happened to my girlfriend. I laughed out loud as hard as only someone who has lived it can appreciate.
 
 So here, a picture of me with my stupid, stupid Backstreet Boys hair. Enjoy this reward for reading about this ridiculous story.
 
