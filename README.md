@@ -1,4 +1,4 @@
-# (blog.fiiv.io)[http://blog.fiiv.io]
+# [blog.fiiv.io](http://blog.fiiv.io)
 
 This is the source for my blog. Just go to the main site if you want to see it.
 
