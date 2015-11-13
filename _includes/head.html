@@ -16,6 +16,13 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="{% if page.title %}{{ page.masthead | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/fiiv.jpg" | prepend: site.url }}{% endif %}">
   <meta property="og:description" content="{% if page.title %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:creator" content="@mtimofiiv">
+  <meta name="twitter:site" content="@mtimofiiv">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:image" content="{% if page.title %}{{ page.masthead | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/fiiv.jpg" | prepend: site.url }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.title %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
 
   <script>
     window._page = {
