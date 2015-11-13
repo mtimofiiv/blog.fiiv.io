@@ -24,15 +24,15 @@
   var shareClickFacebook = function() {
     var uri = 'https://www.facebook.com/dialog/share?app_id=1516645525316623&display=popup'
     uri += '&href=' + encodeURIComponent(window.location.href);
-    uri += '&redirect_uri=' + encodeURIComponent(window.location.href);
-    window.open(uri, 'Share on Facebook');
+    uri += '&redirect_uri=' + encodeURIComponent(window.location.origin + '/close.html');
+    window.open(uri, 'Share on Facebook', 'menubar=0,scrollbars=0,location=0,width=600,height=400');
   };
 
   var shareClickTwitter = function() {
     var uri = 'https://twitter.com/intent/tweet?'
     uri += '&url=' + encodeURIComponent(window.location.href);
     uri += '&text=' + encodeURIComponent(window._page.title);
-    window.open(uri, 'Share on Facebook');
+    window.open(uri, 'Share on Twitter', 'menubar=0,scrollbars=0,location=0,width=600,height=400');
   };
 
   var shareClickBookmark = function() {
