@@ -55,7 +55,7 @@
   width: 100%;
 }
 
-.post-content, .post-header .content, .site-header .content, .post .comments, .blogroll {
+.post-content, .post-header .content, .site-header .content, .post .comments, .blogroll, .author {
   width: 90%;
   max-width: 1000px;
   padding: 0 5%;
@@ -161,6 +161,35 @@
 .blogroll-post p {
   margin: 0;
   padding: 0;
+}
+
+.author {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  padding-top: 50px;
+  border-top: 1px solid #ccc;
+}
+
+.author .window {
+  width: 33%;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.author .content {
+  width: 63%;
+  margin-left: 3%;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.author .window img {
+  border-radius: 50%;
+  width: 100%;
 }
 
 .site-footer {
