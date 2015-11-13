@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | replace:'"', '' }}{% else %}{{ site.description | replace:'"', '' }}{% endif %}">
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ "/assets/styles.css" | prepend: site.baseurl }}">
@@ -15,14 +15,14 @@
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="{% if page.title %}{{ page.masthead | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/fiiv.jpg" | prepend: site.url }}{% endif %}">
-  <meta property="og:description" content="{% if page.title %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{% if page.title %}{{ page.subtitle | replace:'"', '' }}{% else %}{{ site.description | replace:'"', '' }}{% endif %}">
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@mtimofiiv">
   <meta name="twitter:site" content="@mtimofiiv">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:image" content="{% if page.title %}{{ page.masthead | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/assets/images/fiiv.jpg" | prepend: site.url }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.title %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.title %}{{ page.subtitle | replace:'"', '' }}{% else %}{{ site.description | replace:'"', '' }}{% endif %}">
 
   <script>
     window._page = {
