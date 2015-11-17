@@ -27,3 +27,5 @@ defaults:
 #      type: "posts"
 #    values:
 #      permalink: /:year-:month-:day-:title
+
+exclude: [vendor]
