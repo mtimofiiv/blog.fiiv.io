@@ -12,9 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A collection of writings by Mike Timofiiv.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://blog.fiiv.io
-twitter_username: mtimofiiv
-github_username:  mtimofiiv
 timezone: Europe/Amsterdam
+paginate: 5
 
 # Build settings
 markdown: kramdown
