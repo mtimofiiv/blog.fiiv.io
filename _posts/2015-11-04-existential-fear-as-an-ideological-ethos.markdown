@@ -6,6 +6,7 @@ date: 2015-11-04
 categories: fear politics philosophy
 permalink: /existential-fear-as-an-ideological-ethos
 masthead: /assets/images/2015-11-04/01.jpg
+thumb: /assets/images/2015-11-04/thumb.jpg
 ---
 When someone refers to _fear_, one tends to assume it means the primal, paralysing kind, the knife's edge that cuts into our rationality until all that remains is adrenaline, instinct and the will to survive. While this fear has not and will not go away because the forces of crime, war, hunger and anything else leading to desperation still exist in each and every society, there is another variety.
 

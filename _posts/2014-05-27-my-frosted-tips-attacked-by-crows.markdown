@@ -6,6 +6,7 @@ date: 2014-05-27
 categories: crows fashion
 permalink: /my-frosted-tips-attacked-by-crows
 masthead: /assets/images/2014-05-27/01.jpg
+thumb: /assets/images/2014-05-27/thumb.jpg
 ---
 It was a seemingly beautiful day — the sun was out, the spring air was still crisp despite the fast approaching summer, and apparently, the crows were out in force.
 

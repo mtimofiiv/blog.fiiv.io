@@ -4,13 +4,22 @@
     flex-direction: column;
     height: 400px;
   }
-  
+
+  .author {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+
   .blogroll-post .window {
     width: 100%;
     height: 150px;
   }
-  
-  .blogroll-post .content {
+
+  .author .window {
+    width: 100%;
+  }
+
+  .blogroll-post .content, .author .content {
     width: 100%;
     padding-left: 0;
     margin: 10px 0 0 0;

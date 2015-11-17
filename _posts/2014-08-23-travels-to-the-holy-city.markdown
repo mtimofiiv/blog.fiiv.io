@@ -6,6 +6,7 @@ date: 2014-08-23
 categories: travel israel jerusalem
 permalink: /travels-to-the-holy-city
 masthead: /assets/images/2014-08-23/01.jpg
+thumb: /assets/images/2014-08-23/thumb.jpg
 ---
 If you happened to be born an extra terrestrial life form and did not understand religion, Jerusalem would be an incredibly strange place. This city has seen conquerors, zealots, pillagers and many a religious inspiration — some of the most famous people to weave themselves into the fabric of time.
 
