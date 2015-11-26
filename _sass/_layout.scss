@@ -136,6 +136,11 @@
   background-size: cover;
   -webkit-flex: 1 1 auto;
   flex: 1 1 auto;
+  opacity: 0.91;
+}
+
+.blogroll-post .window:hover {
+  opacity: 1;
 }
 
 .blogroll-post .content {
