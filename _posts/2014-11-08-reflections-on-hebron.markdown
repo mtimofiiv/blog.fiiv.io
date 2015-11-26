@@ -6,7 +6,6 @@ date: 2014-11-08
 categories: travel israel hebron palestine
 permalink: /reflections-on-hebron
 masthead: /assets/images/2014-11-08/01.jpg
-thumb: /assets/images/2014-11-08/thumb.jpg
 ---
 It was seven in the morning in Jerusalem - the first warning signs of that characteristic dry heat that is to come beginning to assert themselves in the still weak sunlight. The city was only beginning to stir.
 

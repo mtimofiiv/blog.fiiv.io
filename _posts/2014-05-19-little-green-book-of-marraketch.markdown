@@ -6,7 +6,6 @@ date: 2014-05-14
 categories: travel morocco
 permalink: /the-little-green-book-of-marrakech
 masthead: /assets/images/2014-05-14/01.jpg
-thumb: /assets/images/2014-05-14/thumb.jpg
 ---
 Tina and I walked, lost, through the streets of Marrakech. We were staying in a guest house type mansion (called a riad), Magie d'Orient, where a helpful guy named Aziz helped us feel really at home.
 
