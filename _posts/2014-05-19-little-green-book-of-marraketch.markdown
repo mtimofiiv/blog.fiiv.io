@@ -17,7 +17,7 @@ It was along a busy street here, or rather it was busy at the mouth that faced t
 
 It was at this tiny store that I found a notebook. The green binding with its gold-stamped spine stood out amongst the other books. I had wanted a notebook to write my travel experiences in, and meant to buy one as soon as I got to Morocco.
 
-![writing in the book on the train](/assets/images/2014-05-14/02.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-05-14/02.jpg" alt="writing in the book on the train">
 
 I had no idea if it was good or expensive or if its covers are made of plastic or leather or maybe something in between.
 
@@ -53,7 +53,7 @@ The next day we wandered around the medina walls, the palaces and all the other 
 
 When, tired and hot, we came back to our riad and decided to rest for a bit, I had other things on my mind. When we went up to the terrace to smell the pre-dusk air I looked at the sky.
 
-![on a terrace in Tangier](/assets/images/2014-05-14/03.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-05-14/03.jpg" alt="on a terrace in Tangier">
 
 I knew we were leaving for the desert the next day — early. And the one thing I felt like I regretted was not buying the book.
 

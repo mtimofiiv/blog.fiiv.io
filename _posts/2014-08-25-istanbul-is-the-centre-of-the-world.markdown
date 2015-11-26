@@ -11,17 +11,18 @@ The August heat in Istanbul sticks, coats and smothers you. The wet air of the B
 
 There is an unseen life to the city, like a cool breeze in the dark. The faces of countless peoples walk these streets, wearing the same mix of marvel and little responsibility that comes with vacationers. Tendrils of different languages and cultures drift by everywhere — the melodic Italians, methodic Germans, loud Russians, gentle French, bulldog Brits, confused Koreans, the always cool in the heat Arabs, and dark Africans, among countless others. All travel here to see, to feel, to eat.
 
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-08-25/02.jpg" alt="Junior Soprano">
 ![Junior Soprano](/assets/images/2014-08-25/02.jpg)
 
 Getting food in Istanbul is a foregone conclusion. There are no shortage of restaurants, picking off tourists with their greeters who invite you into their establishment by listing the various foods they serve quickly in the time that it takes to walk past them. If you could only eat their words, you would be full a second after they open their mouthes. Some of the best food places are the ones that speak softly and carry a big stick — there are quite a few buffet type places where you can pick exactly what you want, such as one called Selvi Restaurant near Taksim Square where a man who looks a lot like the Junior Soprano served everything from the meat and rice stuffed green peppers that drew me in (through the peepshow of the window opening right on the food) to the ridiculously rich desserts that one expects in this climate.
 
-!["Junior" serving food](/assets/images/2014-08-25/03.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-08-25/03.jpg" alt="'Junior' serving food">
 
 "Contrary to popular belief, no one here really drinks coffee but the visitors. Turkish coffee, properly made with a touch of cardamom with its thick sludge on the bottom is truly worth tasting, but a steeped black tea served in one of their ubiquitous curvy clear glasses is best.
 
 Some say the industry of tourism corrupts and cheapens the feeling of the world it attempts to portray. This is indeed true in a lot of places, as locals shun real trades in pursuit of foreign coin. They open needless restaurants and start selling stupid trinkets only tourists would buy in a sudden pang of sympathy, pity or to feel some kind of communality to their hosts. True in some ways in Istanbul, but the city has been doing this too long to allow itself to not take all this in stride. When it comes to tourism, Istanbul is that old whore smoking a cigarette as she instructs young girls in her raspy voice in the sacrament of love and sex. She has been doing this so long that there is no need for shame, sleight of hand or misdirection — people have been coming here for centuries to marvel in her beauty and she has not denied a single onlooker.
 
-![Blood moon over Istanbul](/assets/images/2014-08-25/04.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-08-25/04.jpg" alt="Blood moon over Istanbul">
 
 I know what one pictures when they think of this place — Beyoglu. This charming neighbourhood is the epicentre of where the tectonic plates of different styles meet — art deco stands next to modernist which stands next to post-modernist buildings, all opening to the curvy cobbled lanes the blocks of which countless feet have shined. Cozy little cafes set up their tables on almost every street, beckoning you to sit down and watch the sun's rays retreat in a halo of orange and pink. The soft darkness that comes after welcomes and energizes you to continue your adventures.
 
@@ -33,6 +34,6 @@ Hagia Sophia is a wounded beast. Her golden mosaics that once lined the entire c
 
 And as for The Blue Mosque, the courtyard is a welcoming place where all people can come and take a rest among the hundreds of overlapping streams of conversation echoing off the walls below the minarets from which the call to prayer, five times a day, fills the moist hot air with a resounding obligation.
 
-![The Blue Mosque, seen from Hagia Sophia's Gallery](/assets/images/2014-08-25/05.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-08-25/05.jpg" alt="The Blue Mosque, seen from Hagia Sophia's Gallery">
 
 But it's not the tourist hotspots or the climate, it's the people and culture that make this place unique, something lost on those who simply come here to see the buildings. The feeling of this place, derived in part from the people and part from a kind of overwhelming timelessness gets inside your bones and colours your marrow. I will return, of this I can be sure (as I'm hopelessly in love), and when I do, I don't want to leave.

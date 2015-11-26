@@ -17,7 +17,7 @@ It is under this sun that the blue and white Star of David flag of a proud natio
 
 There are Russians, Americans, various flavour of Europeans, Ethiopians and many more that walk these streets, yet they speak Hebrew and, religious or not, feel like they are finally home. And of course, their sons and daughters that were born here, with the entitlement of their birthright a just enough reason for them to feel a magnetism to this place.
 
-![street going to the beach](/assets/images/2014-08-05/02.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-08-05/02.jpg" alt="street going to the beach">
 
 The bauhaus buildings, white and stark, greeted us everywhere as we rode in our awkwardly silent cab. Their modernist ideologies dated them to a time when the young city was built, and the enthusiasm and idealism which it brought.
 

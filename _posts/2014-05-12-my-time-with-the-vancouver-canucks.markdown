@@ -18,17 +18,17 @@ The concept was of a mosaic where other people's pictures made up a bigger image
 
 I played around with several solutions to the inherent problems. Any web developer will tell you the easy part is building something that works on your localhost, but the hard part is planning it ahead of time to work with the type of scale you hope it gets. And we were no short of scale, seeing a whopping 28,000 over the 4 rounds, with each picture automatically being assigned a spot in the grid.
 
-![thisiswhatwelivefor.com](/assets/images/2014-05-12/02.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-05-12/02.jpg" alt="thisiswhatwelivefor.com">
 
 This is What We Live For — a photo mosaic to which people could submit and help make up a larger image.I worked with Joe, a guy I knew from college that we hired on contract to help me with the workload. I distinctly remember the deadline to finish the project looming a couple weeks away. We sat in my first floor office and stared out of the window to the parking lot across the street as if the solution to the newest technical hurdle was out there waiting to be seen.
 
-![thisiswhatwelivefor.com](/assets/images/2014-05-12/03.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-05-12/03.jpg" alt="thisiswhatwelivefor.com">
 
 Each individual photo had a storyIt all worked out, of course, and it seemed everyone was really impressed with the final product. Looking at the codebase now that I've been around, all I see is how much I've learned since that day.
 
 I wouldn't trade that time for anything. To discover the solution to a bug was like the exhilaration one of Agatha Christie's detectives must have felt as they saw the pieces fall into place in one of her dime store whodunits.
 
-![thisiswhatwelivefor.com](/assets/images/2014-05-12/04.jpg)
+<img class="image" src="/assets/images/invisible.gif" data-width="1000" data-src="{{ site.url }}/assets/images/2014-05-12/04.jpg" alt="thisiswhatwelivefor.com">
 
 View from the upper bowl just before the gameIt was a few months that life literally revolved around The Canucks for me. I would go to the playoff games and cheer my throat hoarse. I bought a jersey of my favourite Canuck, Raffi Torres. I volunteered to help lay 18,000 towels on the backs of every single seat in the arena before the games. I ate shit food and I drank like a fish, seldom leaving the arena in strict regiment of work and being a sports fan.
 
