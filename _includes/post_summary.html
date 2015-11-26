@@ -1,5 +1,5 @@
 <div class="blogroll-post">
-  <a class="window" href="{{ post.url | prepend: site.url }}" style="background-image: url({{ post.thumb }});"></a>
+  <a class="window bg-image" href="{{ post.url | prepend: site.url }}" data-width="335" data-bg="{{ post.masthead | prepend: site.url }}"></a>
   <div class="content">
     <h2><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h2>
     <p>{{ post.subtitle }}</p>

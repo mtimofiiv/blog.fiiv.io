@@ -8,11 +8,11 @@
 # Site settings
 title: mike timofiiv
 email: blog@fiiv.io
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of writings by Mike Timofiiv.
+description: A collection of writings by Mike Timofiiv.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.fiiv.io
 timezone: Europe/Amsterdam
+image_server: https://images.fiiv.io
 
 # Build settings
 markdown: kramdown

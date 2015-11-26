@@ -35,14 +35,33 @@
     window.open(uri, 'Share on Twitter', 'menubar=0,scrollbars=0,location=0,width=600,height=400');
   };
 
-  var shareClickBookmark = function() {
+  var embedSizedImages = function() {
+    var stem = window._page.imageServer;
+    var images = document.getElementsByClassName('image');
+    var backgrounds = document.getElementsByClassName('bg-image');
 
+    for (var i = 0; i < backgrounds.length; i++) {
+      if (backgrounds[i].dataset.bg && backgrounds[i].dataset.width) {
+        var uri = stem + '/' + backgrounds[i].dataset.width;
+        uri += '/' + window.btoa(backgrounds[i].dataset.bg);
+        backgrounds[i].style.backgroundImage = 'url(' + uri + ')';
+      }
+    }
+
+    for (var i = 0; i < images.length; i++) {
+      if (images[i].dataset.src && images[i].dataset.width) {
+        var uri = stem + '/' + images[i].dataset.width;
+        uri += '/' + window.btoa(images[i].dataset.src);
+        images[i].src = uri;
+      }
+    }
   };
 
   var initialize = function() {
     initSocialButtons('share-facebook', shareHover('Share on Facebook'), shareClickFacebook);
     initSocialButtons('share-twitter', shareHover('Share on Twitter'), shareClickTwitter);
-    //initSocialButtons('share-bookmark', shareHover('Bookmark this'), shareClickBookmark);
+
+    embedSizedImages();
   };
 
   initialize();
