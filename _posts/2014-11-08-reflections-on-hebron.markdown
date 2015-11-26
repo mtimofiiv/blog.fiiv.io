@@ -37,31 +37,31 @@ When we got outside, we proceeded through a security checkpoint. And now, we wal
 
 The sight ahead of us was of a very conventional medina street, with its stalls, stores and vendors hawking any conceivable ware one could possibly want. People were everywhere, shopping, selling or just walking, and there was a conventionality to the way they carried on with their daily tasks.
 
-![Wire mesh to protect the streets from settler garbage](/assets/images/2014-11-08/02.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Wire mesh to protect the streets from settler garbage" data-src="{{ site.url }}/assets/images/2014-11-08/02.jpg" data-width="1000">
 
 But what was unconventional was the wire mesh above their heads across from side to side like a ceiling where rocks, soda cans and other garbage piled up like ominous clouds. Ebad told us that the Zionist settlers would stand on the roofs and throw whatever was at hand at the Palestinians — this was the reason for the mesh.
 
 As we went on, the Palestinian flag was everywhere, spray painted on buildings or waving from a house. It may not have meant anything a mere century ago, but today it was a rallying cry for a people that have found a national identity in their suffering.
 
-![Graffiti in the old city](/assets/images/2014-11-08/03.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Graffiti in the old city" data-src="{{ site.url }}/assets/images/2014-11-08/03.jpg" data-width="1000">
 
 One could not help feeling a deep anger at seeing what these people call life. In the house of one local man we were shown videos he recorded on his own camera of when a vacationing Russian Jew climbed up three floors by ladder to take down a Palestinian flag the man had on his roof, with cheering coming from below of several dozen like-minded settlers. He refused, and was harrassed by the shouts of the crowd. On another occasion, he had to install bars on the room his daughter sleeps in because it faces the settler side, and he has had rocks (and worse) thrown through it.
 
 The partition has created a no-man's land between the two sides, and as a result, it has seen a shutdown of whole streets. The man's livelihood was his store which he was forced to close down. He now sells scarves from his house.
 
-![Junior Soprano](/assets/images/2014-11-08/04.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="An industrious way to use barbed wire fences" data-src="{{ site.url }}/assets/images/2014-11-08/04.jpg" data-width="1000">
 
 At the end of the soukh markets was a busy city street, bustling with cars, bikes and people going about their daily lives. It was hard to imagine that the ominous bullet holes in the walls, broken windows and charred remains of fires were real signs of what takes place in this very location at a predictable time each Friday, and since the recent hostilities, almost every day. We reached the end of Palestinian controlled areas, and saw an Israeli security checkpoint, the area around which was riddled with stones, all sharing the characteristic of being about the size of a baseball and perfect for throwing.
 
-![An industrious way to use barbed wire fences](/assets/images/2014-11-08/05.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Checkpoint between Palestinian and Israeli areas" data-src="{{ site.url }}/assets/images/2014-11-08/05.jpg" data-width="1000">
 
 We were on Al-Shuhada Street. This street has become somewhat of a rallying cry for the Palestinians here, as it was once a living breathing part of the city, but now it was an empty stretch of road that stood empty and desolate. It was closed down by the Israeli authorities to aid in security around the Jewish settler areas and the Tomb of the Patriarchs in the aftermath of the 1994 massacre. Somehow, Ebad's family was still allowed to live there, and we came to his white door where someone had spray-painted the Star of David. I watched him as he opened it and as he pretended to ignore the graffiti.
 
-![Checkpoint between Palestinian and Israeli areas](/assets/images/2014-11-08/06.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Graffiti on Ebad's door" data-src="{{ site.url }}/assets/images/2014-11-08/06.jpg" data-width="1000">
 
 After a delicious lunch cooked by his mother and sisters, we said goodbye to Ebad and left him to his life. The Israelis had a lot to answer for. I was angry, appalled and the insults the Palestinians live with every day hung over my head like a blood red moon. A refreshed and cheerful Eliyahu met us, and we walked back into settler territory. He knew how we felt, knew what we saw. He made no apologies, but began the second side of the story. That was all he could do, and why we were here. I wanted to hear him justify what I had seen, wanted him to explain to me what made this right.
 
-![Graffiti on Ebad's door](/assets/images/2014-11-08/07.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Graffiti in the settler's area" data-src="{{ site.url }}/assets/images/2014-11-08/07.jpg" data-width="1000">
 
 He did nothing of the sort. He did tell us, however, about 1929.
 
@@ -69,7 +69,7 @@ Theodor Hertzl's tirelessness had brought the idea of Zionism to the forefront o
 
 When they returned, it was with the Israeli Defence Forces behind them, and they wanted back what they had lost.
 
-![Graffiti in the settler's area](/assets/images/2014-11-08/08.jpg)
+<img class="image" src="/assets/images/invisible.gif" alt="Mural on the wall in the Settler's area" data-src="{{ site.url }}/assets/images/2014-11-08/08.jpg" data-width="1000">
 
 We walked along the street bordering the Palestinian's medina and saw it was plastered with murals and signs, explaining how right the Zionists were to return here. We walked to a housing complex where a prominent Jewish Rabbi, Shlomo Ranaan, was murdered in his home in 1993 by Palestinian nationalists. His Palestinian neighbours and friends a few houses away with whom he had broken bread with, hung Palestinian flags in their windows as a show of solidarity with the killers, sending a slap in the face of his family and memory, much like the star of David on Ebad's door.
 
