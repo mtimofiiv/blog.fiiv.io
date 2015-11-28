@@ -5,7 +5,7 @@ subtitle: "It's like watching a movie before reading the book."
 date: 2014-06-07
 categories: social-media photos travel
 permalink: /dont-be-so-hasty-to-share-those-travel-photos-on-social
-masthead: /assets/images/2014-06-07/01.png
+masthead: /assets/images/2014-06-07/01.jpg
 ---
 The sun had gone down hours ago, and the world around me had already fallen asleep. My street had almost no streetlights, and the dark outlines of the shapes outside my windows barely breached the inky blackness. People walking by were rare and at times were the only sound besides the light wind gently flowing through the yearning leaves of the tree outside.
 
