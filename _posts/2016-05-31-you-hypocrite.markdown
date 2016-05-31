@@ -19,6 +19,6 @@ The ugly _Leviathan_-sized hypocrisy monster shows itself most often in the form
 
 It, of course, would be hypocritical of me to chastise hypocrites when I myself am guilty of that at times. But I guess this is where _Matthew 7:5_ gives us hypocrites (of whom Matthew, as a human being, if he ever truly existed, would surely count among the ranks of) advice on what to do next: to first take the plank out of our own eye.
 
-So how about we all leave the windy tower of virtue in which our ideal self lives in behind and enter the world where childishly binary choices are no longer possible?
+So how about we all leave the windy tower of virtue in which our ideal selves live in behind and enter the world where childishly binary choices are no longer possible?
 
 You (and I) are sometimes a shitty person that at times does things that are inconsiderate. So are the people who you look up to, wether they’re inventors, business leaders, politicians, athletes, religious demagogues or your (and my) mother. So let’s together work on removing all those collective planks from our eyes, and who knows, maybe our neighbour’s speck will be gone too.
