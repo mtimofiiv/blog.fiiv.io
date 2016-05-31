@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You Hypocrite"
-subtitle: ""
+subtitle: "What, you think you're different?"
 date: 2016-05-31
 categories: hypocrite life lifestyle
 permalink: /you-hypocrite
