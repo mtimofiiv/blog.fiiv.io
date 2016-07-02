@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The triumph over reason"
-subtitle: ""
+subtitle: "What caused the Brits to want to leave?"
 date: 2016-07-02
 categories: hypocrite life lifestyle
 permalink: /the-identity-of-a-brexit
