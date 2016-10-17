@@ -14,10 +14,10 @@ url: https://blog.fiiv.io
 timezone: Europe/Amsterdam
 image_server: https://images.fiiv.io
 
-paginate: 10
+#paginate: 10
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 kramdown:
   input: GFM
