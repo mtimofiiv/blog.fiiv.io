@@ -5,7 +5,7 @@ subtitle: ""
 date: 2016-10-17
 categories: islam marxism politics
 permalink: /islam-and-marxism
-masthead: /assets/images/2016-10-07/01.jpg
+masthead: /assets/images/2016-10-17/01.jpg
 ---
 The fastest growing religion in the world today is Islam. Studies in demographics clearly show the trend, and the amount of Muslims around the world is [projected to almost double by 2050](http://www.pewforum.org/2015/04/02/muslims/) to 2,8 billion. But what is most impressive for the faith is the amount of young people that identify as Muslim - the median age (as of 2010) is 23, and there is an incredibly high amount of people in their early 20s and younger when compared to other Abrahamic faiths.
 
