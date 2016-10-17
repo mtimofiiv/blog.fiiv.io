@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Islam’s revolutionary tie-in with Marx"
-subtitle: ""
+subtitle: "A look at a similarity between Marxist-Leninists of the previous century and the Islamic movements of today"
 date: 2016-10-17
 categories: islam marxism politics
 permalink: /islam-and-marxism
