@@ -239,7 +239,6 @@
   margin-top: 50px;
   margin-bottom: 100px;
   padding-top: 50px;
-  border-top: 1px solid #ccc;
 }
 
 .author .window {
@@ -262,7 +261,7 @@
 
 .site-footer {
   width: 100%;
-  background: $brand-color;
+  background: $aside-background-color;
   color: white;
   margin: 100px 0 0 0;
   padding: 0;

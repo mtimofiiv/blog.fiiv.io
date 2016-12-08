@@ -49,3 +49,34 @@ blockquote {
 .hidden {
   display: none;
 }
+
+.newsletter-form {
+  text-align: center;
+  background: $aside-background-color;
+  color: white;
+  padding: 20px 0 40px 0;
+}
+
+.newsletter-form h2 {
+  color: white;
+  font-family: $base-font-family;
+}
+
+.newsletter-form input, .newsletter-form button {
+  border-radius: 3px;
+  border: 0px;
+  background: white;
+  color: $aside-background-color;
+  font-size: 20px;
+  height: 48px;
+  padding: 0 10px;
+}
+
+.newsletter-form input {
+  width: 300px;
+}
+
+.newsletter-form button {
+  cursor: pointer;
+  font-weight: bold;
+}
