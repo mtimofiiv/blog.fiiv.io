@@ -80,3 +80,19 @@ blockquote {
   cursor: pointer;
   font-weight: bold;
 }
+
+.twitter-quote .twitter-tweet {
+  margin: 0 auto;
+}
+
+.youtube-embed {
+  max-width: 535px;
+  margin: 0 auto;
+}
+
+.youtube-embed .caption {
+  color: lighten($text-color, 30%);
+  font-size: 13px;
+  text-align: center;
+  margin-top: 2px;
+}
