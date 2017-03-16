@@ -16,18 +16,16 @@ The losers were also clear. The 20 seats Geert Wilders’s PVV received will all
 This time around, the Dutch got their brush with megalomaniacal authoritarianism as Turkey attempted to shake the European tree to see what fruit may fall out. The incident was clearly designed as a no-win situation for the Dutch by the manipulating spider that is Recep Tayyip Erdoğan. His immediate goal is the expansion of the presidency’s power where the executive powers of the republic would be more firmly entrenched in that office, a-la The United States. The controversial referendum is slated to happen in April, and the president and his Justice and Development Party (AKP) have been tirelessly campaigning to make it happen. Since the coup attempt against him, Erdogan has been seeking to consolidate his power in order to maintain it, as well as continue to wage the civil war against the Kurdistan Worker’s Party (PKK) in the eastern regions.
 
 <div class="youtube-embed">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/errX-TJG6gs" frameborder="0" allowfullscreen></iframe>
-
-  <p class="caption">The Turkish consul has words with the Rotterdam police</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/errX-TJG6gs" frameborder="0" allowfullscreen class="youtube-iframe"></iframe>
 </div>
+<p class="caption">The Turkish consul has words with the Rotterdam police</p>
 
-In an unprecedented situation, the Turkish government attempted to hold rallies for an evet vote in European cities with significant Turkish expatriate populations. The Turkish Minister of Foreign Affairs, Mevlüt Çavuşoğlu, was slated to visit and speak at one such rally in Rotterdam. The Dutch government promptly denied him entry into the country, and on the day of the rally, riot police were deployed around the office of the Turkish Consul in Rotterdam and the obviously sympathetic well educated female minister of Family and Social Policy Dr. Betül Sayan Kaya was sent in as a sacrificial pawn to try to enter the consul’s office. The Rotterdam police promptly deported her in a somewhat ugly public incident.
+In an unprecedented situation, the Turkish government attempted to hold rallies for an _evet_ vote in European cities with significant Turkish expatriate populations. The Turkish Minister of Foreign Affairs, Mevlüt Çavuşoğlu, was slated to visit and speak at one such rally in Rotterdam. The Dutch government promptly denied him entry into the country, and on the day of the rally, riot police were deployed around the office of the Turkish Consul in Rotterdam and the obviously sympathetic well educated female minister of Family and Social Policy Dr. Betül Sayan Kaya was sent in as a sacrificial pawn to try to enter the consul’s office. The Rotterdam police promptly deported her in a somewhat ugly public incident.
 
 <div class="youtube-embed">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/bSLvrUyJJ4w" frameborder="0" allowfullscreen></iframe>
-
-  <p class="caption">Dr. Betül Sayan Kaya and her runin with the police</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bSLvrUyJJ4w" frameborder="0" allowfullscreen class="youtube-iframe"></iframe>
 </div>
+<p class="caption">Dr. Betül Sayan Kaya and her runin with the police</p>
 
 And of course, a predictable reaction came from the gold hair-triggered Wilders, which spread like wildfire through Turkish media as evidence of Erdoğan’s narrative of Europeans thumbing their nose at Turkey.
 
@@ -36,7 +34,7 @@ And of course, a predictable reaction came from the gold hair-triggered Wilders,
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-To Turkish people in the Netherlands, whether they were for evet or hayir, must have been alienating and humiliating. As I walked past Mercatorplein on the following afternoon, a tidy little park plaza in the neighbourhood where I live with a high population of Moroccan and Turk expatriates, a group of young school girls were crossing the street protesting with Turkish flags, with cars riding by giving reassuring honks of support.
+To Turkish people in the Netherlands, whether they were for _evet_ or _hayir_, must have been alienating and humiliating. As I walked past Mercatorplein on the following afternoon, a tidy little park plaza in the neighbourhood where I live with a high population of Moroccan and Turk expatriates, a group of young school girls were crossing the street protesting with Turkish flags, with cars riding by giving reassuring honks of support.
 
 Of the xenophobic voters who hovered their needle between Rutte’s VVD and Wilders’s PVV, Rutte’s riposte of the Turkish government’s attempt to rally in Rotterdam may have swayed those establishment right wing voters back to him in the short term, but the full implications of the incident have not yet fully been felt.
 
