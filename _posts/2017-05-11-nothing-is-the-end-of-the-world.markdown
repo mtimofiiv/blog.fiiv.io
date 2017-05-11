@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The end time
-subtitle:
+title: The end of the world
+subtitle: Do we really have to go through all this again?
 date: 2017-05-11
 categories: philosophy fear apocalypse
 permalink: /nothing-is-the-end-of-the-world
-masthead: /assets/images/2017-03-16/01.jpg
+masthead: /assets/images/2017-05-11/01.jpg
 ---
 Daniel's story reads like a great adventure. Rubbing shoulders with and gaining the ire of the King of Babylon, fighting a lion in a dungeon pit, hallucinogenic visions of anthropomorphic animals and visits with the angels. As far as religious texts go, The Book of Daniel is one of those strange books that the ideologues that are responsible for the Bible as we know it today probably had some fascinating discussions about.
 
