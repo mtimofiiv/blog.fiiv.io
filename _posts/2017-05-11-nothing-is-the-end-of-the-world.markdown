@@ -1,0 +1,61 @@
+---
+layout: post
+title: The end time
+subtitle:
+date: 2017-05-11
+categories: philosophy fear apocalypse
+permalink: /nothing-is-the-end-of-the-world
+masthead: /assets/images/2017-03-16/01.jpg
+---
+Daniel's story reads like a great adventure. Rubbing shoulders with and gaining the ire of the King of Babylon, fighting a lion in a dungeon pit, hallucinogenic visions of anthropomorphic animals and visits with the angels. As far as religious texts go, The Book of Daniel is one of those strange books that the ideologues that are responsible for the Bible as we know it today probably had some fascinating discussions about.
+
+The story is set for the most part during the rule of Nebuchadnezzar II who plays villain throughout, in an empire we refer to today as the Neo-Babylonian or Chaldean. By contrast, Islamic texts, while acknowledging him as a ruthless conqueror, also speak of his spiritual side with a pronounced moral compass. The main reason Daniel is even in Babylon is that the Chaldeans defeated the kingdom of Judah and decided to force some of their new subjects to move back to Babylon to serve the king.
+
+One thing that The Book of Daniel is also known for is its apocalyptic message (_Daniel 8:14_):
+
+> For two thousand three hundred evenings and mornings; then the sanctuary shall be restored to its rightful state.
+
+In 1833, a Baptist preacher named William Miller decided to spend way too long reading the 8th Chapter and figured out that the sanctuary shall be cleansed between 1843 or 1844 - finally landing on October 22nd, 1844. Jesus Christ, in all his glory, would ride down from his Heavenly Seat and bring fourth the Day of Judgement. The dead would rise and the wicked would be separated from the good.
+
+And so for eleven years the Adventists as they came to be called waited patiently for the end of the world. The fateful day came and went, and was by all measurements an entirely ordinary day, though in a particularly warm autumn. The finale that was expected left Adventists everywhere severely disillusioned and probably a little embarrassed. What followed was what is collectively known as _The Great Disappointment_: public ridicule, some vandalism and, like the Kingdom of the Chaldeans after the death of Nebuchadnezzar II, fragmentation and decline gripping the movement.
+
+Today, the vast majority of people no longer believe in religious doomsday predictions. But a new type of the end of the world is being dreamed up in the minds of people everywhere, with the same fervour enjoyed by the Adventists. I've always liked this passage from Nick Cave's _Higgs Boson Blues_:
+
+> Look, here comes the missionary<br>
+> With his smallpox and flu<br>
+> He's saving them, the savages<br>
+> With his Higgs Boson Blues
+
+<div class="youtube-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1GWsdqCYvgw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The new missionaries bring the teachings of science and politics, which has its own end times on the horizon. The end of the world is coming when in a spectacular new world war, the nuclear-empowered nations would fry each other and the rest of us in some kind of gigantic war crime reminiscent of Hiroshima and Nagasaki. Or perhaps our emissions of greenhouse gasses will doom us when the polar ice caps melt, the Ozone layer is depleted completely and we go past the tipping point in cutting down enough trees as to where nothing will be left to shadow breathe our air back to life.
+
+Another brand is the predictions of what is to come in the coming post-post-capitalism era. The disassociation caused by hollow materialism and the decay of the institutions we rely on as brought on by neoliberals or corporations.
+
+Perhaps all might happen at once - the proofs of the prophecy are all there in front of us! The world seems to be in a state of crisis with its hawkish governments, populists, proxy and propaganda wars. The world is getting warmer every year, and we have concluded beyond a reasonable doubt that humans are causing it. People all around us feel like they are asleep in their own lives, living on autopilot, climbing some kind of impossible M.C. Escher staircase of debt till they eventually drop and leave their burdens to their children.
+
+Let me remind you Neo-Adventists of the world about something: humanity has survived everything we have seen in our short existence on this planet. Humans have survived the Ice Age with only the most basic tools. We survived the constant wars of our history which, at the time probably seemed like the last possible war - what do you think the cosmopolitan citizens of Rome thought as the Visigoths tore through their capital in 410? How did the Slavic kingdoms see the invading Mongol Hordes of Genghis Khan? It's true that the stakes are now higher - nuclear weapons and destruction of our atmosphere leads to thoughts of the possibility of a very abrupt and final end. But perhaps when one hears of the atrocities committed by Mongols, watching them crash through your city may also seem to be the end of all ends.
+
+When it comes to nuclear weapons, the world managed to survive the Cold War where the two powers were sitting pretty close to midnight on the Atomic Doomsday Clock. The almost pathological paranoia and claustrophobia of works describing this state of mind, such as everything from _Dr. Strangelove_ to _The Watchmen_, or even Alphaville's haunting song _Forever Young_ are not unique in their subject matter to the time since recent developments once again bring into question our nuclear Judgement Day. The world Ozymandias envisions in the final scenes of _The Watchmen_ seem like a better idea every day, if only we had a Dr. Manhattan to blame!
+
+The systematic destruction of our environment is a scenario humanity has faced before. The Great Desert is littered with old settlements predating the encroachment of the sands, cities lie under the seas and some, like the civilisation of the Maya faded away when people simply stopped living there.
+
+People see the approaching heat death of the environment as too big a cause to solve. But let's not forget the progress made towards our own salvation. One of the biggest polluters of the world is China. The Dragon's massive industrialisation was definitely dirty and soot-covered, and it still leads the world in (among other categories) production of CO2 at [2806634 thousand metric tonnes as of 2014](http://cdiac.ornl.gov/trends/emis/tre_coun.html), which is nearly double the next largest (the USA at 1432855). However steps are taken every day to shift policy, including in China - it was one of the signatories of the 2016 Paris Agreement, which it is so far respecting. The goal of the agreement is to not allow global warming to advance beyond two degrees Celsius. At a population of almost 1,4 billion, this is an enormous shift and provided the commitments are met by China and the other signatories (which account for 55% of collective emissions worldwide), there is no reason to panic.
+
+As for the eroding state of capitalism - the arguments tend to go into two camps. The first, like grumpy old pensioners yelling at kids skateboarding on their precious sidewalks, some tend to look at social media as the major nail in the coffin. Social media does bring with it oversharing and also a slightly different kind of isolation, of course. Another popular argument is the erosion of common values or sometimes an uptake in divorce or how parents work more and put their children in day care instead of having the woman stay home like a good little nuclear family (I am purposely avoiding the more extreme versions of this argument, such as racial/ethnic harmony or purity, the supposed over-expansion of the LGBQT movement and how it erodes family values, et al).
+
+The other camp tends to bemoan how materialistic people are these days and how salesmanship has created a society of dependence on things and money to contribute to self-confidence. This camp also parades around how people _should be_, in the perfect model world where people are altruistic and genuine.
+
+The truth is, capitalism is a flawed and broken system on anything but paper. In it, money is power and nothing else matters, with the significant chunk of the means of production belonging to the haves of the world, and one does not have to be a Marxist to see it. The only disagreements are wether the haves are entitled to it or not and how to tax them to provide a social net for the have-nots. It exploits people, just like all its predecessors. The structures of the modern state also offer problems, since exploitation is possible through globalised outsourcing, not to mention the inherent inequality of international trade, even within blocs designed to avoid this issue, such as The European Union or the USSR (I say USSR as it was truly a form of state-owned capitalism in the end, and not really a true alternative as it too was hierarchal and exploitative).
+
+But people that complain about this are missing the point. When individuals fail at something they learn to not do it again - we do it as children and that the stove is hot. We do it as adults when we start a new business and it fails. The point is that the individual human's life is short, and the things we can try and fail at are limited in scope. Society is larger than all of us, and we are now living in the time when capitalism has taught us valuable lessons on how we structure ourselves. The process of innovation and evolution of our society happens through a process of [Hegelian Dialectic](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) (which is more of a Emmanuel Kant thing, but that's for another discussion). We are in the process of grafting the flawed _thesis_ with what we believe is a better _anti-thesis_ to create the pragmatic reality of the _synthesis_, just like our parents' generation did, and the one before them. This process will take our entire lives, and once we are done, our children will see its flaws and innovate again with their own _anti-thesis_.
+
+The only real loss that is probable in the near future is the loss of our living standards. We know that the highest population countries, mainly India and China, cannot achieve current Western living standards without exhausting the resources of this planet. Stated plainly, we in North America and Europe are richer than is maintainable unless we continue to live in an unequal and stratified world where the average Indian is born with less mobility within our system than the average German.
+
+So if you the reader believe in equality, the next step is not going to be to raise all people in the world to the way North Western Europe lives but to lower the expectations and real standards of North Western Europeans and North Americans. That does not mean that we have to surrender civil rights or dismantle social safety nets, it means that the idea of income re-distribution will have to be applied more fairly and broadly. It means that human beings will have to start thinking as human beings and not as a nation of limited membership within a whole. It means that the birthplace, religion, sexual or gender identity and skin colour must become facets of the world citizen's complex identity rather than a clique with a binary membership policy (binary as in you are one or you are not).
+
+We have to be less shitty people instead of running away with fairy tales about how it doesn't matter since we're all going to die. This is our world, and we get a limited set of decades to enjoy it. Living and waiting for the clock to expire on nuclear war, environmental collapse or societal disintegration are all equally useless activities. We laugh at those lowly Adventists, and people in 200 years may just laugh at us in the same way, with our silly little theories of the end.
+
+So join me, today - join me in dropping the pessimism and half-baked theories in our mutual destruction. Join me, today, in 

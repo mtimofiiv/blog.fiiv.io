@@ -53,7 +53,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (= 3.1.0)
+  jekyll
 
 BUNDLED WITH
    1.14.5
